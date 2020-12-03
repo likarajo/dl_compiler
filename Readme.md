@@ -44,7 +44,7 @@ python3 tvm_compiler.py
 
 This generates .json and .params
 
-## Refernce
+## Reference
 
 https://github.com/starmee/AI-Notes/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E9%83%A8%E7%BD%B2%E6%A1%86%E6%9E%B6/TVM/TVM%E9%83%A8%E7%BD%B2.md#build-tensorflow
 
